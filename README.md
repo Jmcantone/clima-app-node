@@ -5,11 +5,10 @@ Permite obtener el clima de una ciudad gracias a las API
 - OpenWeatherMap
 - GoogleApis
 
-Ejecutar este comando
+Ejecutar este comando:
 
 ```
 npm install
-
 ```
 
 ### Ejemplo:
